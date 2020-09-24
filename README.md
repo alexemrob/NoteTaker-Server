@@ -8,7 +8,7 @@ User may write and save notes. User may also delete notes that are no longer nec
 To open application - run 'node server.js' and terminal will return 'App listening on PORT: 3001'. Finally, open 'localhost:3001' in user browser to access application.
 <img src="./assets/notetaker1.png" alt="note taker screenshot">
 <img src="./assets/notetaker2.png" alt="note taker screenshot">
-<img src="./assets/notetaker3.png" alt="note taker screenshot"><
+<img src="./assets/notetaker3.png" alt="note taker screenshot">
 ## Installation Instructions
 User must install node modules and express.
 ## Questions
